@@ -89,3 +89,6 @@
 - git remote rm origin
 - git remote add origin ssh地址
 - git remote -v  
+
+
+## 其他人修改
