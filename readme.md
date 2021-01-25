@@ -89,3 +89,8 @@
 - git remote rm origin
 - git remote add origin ssh地址
 - git remote -v  
+
+
+## 更新代码
+- 确保自己工作区的代码先提交到本地仓库
+- 然后再从远程更新到本地
