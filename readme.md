@@ -106,4 +106,6 @@
 - git branch 查看当前所有分支
 - 当前分支名有个星号
 - git branch 分支名  创建一个分支
+- git checkout 分支名
 
+## 新增内容
