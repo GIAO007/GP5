@@ -56,3 +56,30 @@
 - git reset --hard 版本号  回退到指定版本
 - 注意把当前代码提交到本地仓库
 - 工作区的代码自动变成恢复的指定版本
+
+
+## 查看变动
+- git diff 文件名
+- 会列出该文件前后的差异
+
+
+## 创建远程仓库
+- 进入 github官网
+- 创建一个新的远程仓库
+
+
+## 将本地仓库于远程仓库关联
+- git remote add origin 你的远程仓库地址
+- git remote -v   查看本地仓库关联的远程仓库地址
+
+
+## 将本地仓库提交到远程仓库
+- git push -u origin master   第一次提交到远程仓库
+- git push   将本地仓库提交到远程仓库
+- -u origin master   设置默认的提交分支
+
+
+## 本地操作关键步骤(非第一次)
+1. git add .     提交到暂时区
+2. git commit -m '注释'   
+3. git push      提交到远仓库
