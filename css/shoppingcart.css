@@ -1,0 +1,119 @@
+.header{
+  height: 80px;
+  background-color: #eee;
+}
+.header h1{
+  text-align: center;
+  line-height: 80px;
+}
+.head{
+  overflow: hidden;
+  background-color: #eee;
+  width: 900px;
+  margin: 30px auto 10px;
+  line-height: 40px;
+  padding-left: 30px;
+}
+.head input{
+  float: left;
+  margin-top: 15px;
+}
+.head span:nth-of-type(1){
+  float: left;
+}
+.head span:nth-of-type(2){
+  float: left;
+  margin-left: 70px;
+}
+.head span:nth-of-type(3){
+  float: left;
+  margin-left: 270px;
+}
+.head span:nth-of-type(4){
+  float: left;
+  margin-left: 90px;
+}
+.head span:nth-of-type(5){
+  float: left;
+  margin-left: 90px;
+}
+.head span:nth-of-type(6){
+  float: left;
+  margin-left: 70px;
+}
+.list{
+  margin-top: 5px;
+  width: 900px;
+  margin: 0 auto;
+}
+.list li{
+  padding: 10px 15px;
+  background-color: lightcyan;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+.list li input{
+  float: left;
+}
+.list li img{
+  float: left;
+  width: 80px;
+  height: 80px;
+}
+.list li h3{
+  float: left;
+  width: 300px;
+  margin: 10px 0 0 15px;
+}
+.list li p{
+  float: left;
+  width: 100px;
+  text-align: center;
+}
+.list li span:nth-of-type(1){
+  float: left;
+  margin-left: 35px;
+  padding: 0 6px;
+  background-color: #eee;
+  cursor: pointer;
+}
+.list li span:nth-of-type(3){
+  float: left;
+  padding: 0 3px;
+  margin-left: 5px;
+  background-color: #eee;
+  cursor: pointer;
+}
+.list li span:nth-of-type(2){
+  float: left;
+  width: 20px;
+  text-align: center;
+}
+.list li span:nth-of-type(4){
+  float: left;
+  width: 20px;
+  text-align: center;
+  margin-left: 70px;
+}
+.list li em{
+  float: left;
+  width: 50px;
+  text-align: center;
+  margin-left: 80px;
+  cursor: pointer;
+}
+.priAll{
+  float: left;
+  margin: 0 0 50px 1000px;
+  text-align: center;
+}
+.priAll h4{
+  float: left;
+  font-size: 16px;
+  color: red;
+}
+.priAll span{
+  float: left;
+  font-size: 16px;
+  color: red;
+}
