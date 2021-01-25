@@ -83,3 +83,9 @@
 1. git add .     提交到暂时区
 2. git commit -m '注释'   
 3. git push      提交到远仓库
+
+
+## 修改关联的远程仓库地址
+- git remote rm origin
+- git remote add origin ssh地址
+- git remote -v  
