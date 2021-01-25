@@ -109,6 +109,6 @@
 - git checkout 分支名  切换分支
 - git merge 分支名     合并某分支到当前分支
 - git branch -d 分支名    删除某分支
-- git push origin 分支名   
+- git push origin 分支名   将某个分支提交到远程仓库
 
 ## 新增内容
